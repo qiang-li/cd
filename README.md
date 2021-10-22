@@ -18,7 +18,7 @@ app/Http/Requests/PhoneBookRequest.php <br />
 app/Http/Models/PhoneBook.php <br />
 database/migrations/2021_10_22_010714_create_phone_books_table.php <br />
 database/seeders/PhoneBookSeeder.php <br />
-resources/views/*
+resources/views/* <br />
 routes/web.php
 
 ## The database dump file
